@@ -9,6 +9,7 @@
 #import "HLYVideoPlayerController.h"
 #import <MediaPlayer/MediaPlayer.h>
 @interface HLYVideoPlayerController ()
+
 /** 播放器 */
 @property (nonatomic, strong) MPMoviePlayerController *playerController;
 
